@@ -1,16 +1,42 @@
-## Hi there 👋
+# sui0201
 
-<!--
-**sui0201/sui0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Web開発 / UI/UXデザイン / 情報技術
 
-Here are some ideas to get you started:
+## 自己紹介
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web開発とUI/UXデザインに関心を持っている学生です。
+
+Webアプリケーションの開発やインターフェースの設計を通して、技術とデザインの両面からものづくりに取り組んでいます。
+
+## 取り組んでいること
+
+- Webアプリケーションの開発
+- ユーザーインターフェースの設計
+- UI/UX・ユーザビリティの研究
+- フロントエンド技術の学習・実験
+
+## 技術スタック
+
+### 言語
+
+- TypeScript
+- JavaScript
+
+### フレームワーク・ライブラリ
+
+- React
+- Next.js
+
+### 開発ツール
+
+- Git
+- GitHub
+- Visual Studio Code
+
+## 現在学習中
+
+- TypeScript
+- React
+- Next.js
+- UI/UXデザイン
+- Webアクセシビリティ
