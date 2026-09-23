@@ -49,4 +49,4 @@ Webアプリケーションの開発やインターフェースの設計を通�
 
 ---
 
-[sui0201について詳しく ->](https://github.com/sui0201/About-sui0201/README-ja.md))
+[sui0201について詳しく ->](https://github.com/sui0201/About-sui0201/README-ja.md)
