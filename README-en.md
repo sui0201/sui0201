@@ -44,3 +44,9 @@ I work on web applications and user interface design, exploring both the technic
 - Next.js
 - UI/UX Design
 - Web Accessibility
+- Color Psychology
+- Color Theory
+
+---
+
+[READ MORE ->](https://github.com/sui0201/About-sui0201/blob/main/README.md)
