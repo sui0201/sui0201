@@ -1,5 +1,9 @@
 # sui0201
 
+## Language
+
+[🇯🇵 日本語](./README.md) | [🇺🇸 English](./README-en.md)
+
 > Web Development / UI/UX Design / Information Technology
 
 ## About Me
